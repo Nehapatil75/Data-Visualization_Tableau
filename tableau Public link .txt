@@ -1,0 +1,8 @@
+In this Tableau Public website there are various visuals and dashboards are created copy and paste the link and show all the visuals and dashboards on Tableau Public.
+
+
+
+
+https://public.tableau.com/app/profile/neha.patil4964/viz/Filtersandcalculatedfieldfunctions/Paretochart
+
+https://public.tableau.com/app/profile/neha.patil4964/viz/Day2_Assignment_17031562950960/Dashboard1?publish=yes
